@@ -1,2 +1,1 @@
-# chromeapp-vanillajs
-ChromeApp-VanillaJS with NomadCoders
+# nomadCoders-practice
